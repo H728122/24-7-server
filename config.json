@@ -1,0 +1,9 @@
+{
+	"ip":"MunchyCraft.aternos.me",
+	"port": 55893,
+	"name": "MunchyCraftNetwork",
+	"auto-night-skip":"true",
+	"login-enabled":"true",
+	"register-cmd":"/register JackJTV JackJTV",
+	"login-cmd":"/login JackJTV"
+}
